@@ -9,6 +9,6 @@ A powerful tool for doing some thingy things
 
 | Operating System  | Developement | Status        |
 |-------------------|--------------|---------------|
-| Windows           | Expected     | Not supported |
+| Windows           | Expected     | Supported |
 | Linux             | Expected     | Not supported |
 | Mac OS            | Not expected | Not supported |
