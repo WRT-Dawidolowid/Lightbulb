@@ -1,7 +1,13 @@
 # Lightbulb
-A powerful tool for doing some thingy things
-
 <img src=".github/Lightbulb_banner.png" alt="">
+
+A powerful tool made in PowerShell for doing some things like:
+<!-- 
+| Operating System  | Developement | Status        |
+|-------------------|--------------|---------------|
+| Windows           |      | Supported |
+| Linux             | Expected     | Not supported |
+| Mac OS            | Not expected | Not supported |-->
 
 > [!CAUTION]
 > This program is in early alpha and it can be unstable.
