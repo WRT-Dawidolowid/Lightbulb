@@ -1,5 +1,6 @@
 # Lightbulb
 <img src=".github/Lightbulb_banner.png" alt="">
+<!-- This content will not appear in the rendered Markdown -->
 
 A powerful tool made in PowerShell for doing some things like:
 <!-- | Operating System  | Developement | Status        |
