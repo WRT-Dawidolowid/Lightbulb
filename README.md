@@ -14,3 +14,6 @@ A powerful tool for doing some thingy things
 | Windows           |      | Supported |
 | Linux             | Expected     | Not supported |
 | Mac OS            | Not expected | Not supported |
+
+> Credits to:
+> Fufuuuuu for Graphical Support
