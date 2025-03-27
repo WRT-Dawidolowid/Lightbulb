@@ -7,8 +7,8 @@ A powerful tool for doing some thingy things
 > [!TIP]  
 > Expect bugs! Report them to help improve Lightbulb
 
-> | Operating System  | Developement | Status        |
-> |-------------------|--------------|---------------|
-> | Windows           | Expected     | Not supported |
-> | Linux             | Expected     | Not supported |
-> | Mac OS            | Not expected | Not supported |
+| Operating System  | Developement | Status        |
+|-------------------|--------------|---------------|
+| Windows           | Expected     | Not supported |
+| Linux             | Expected     | Not supported |
+| Mac OS            | Not expected | Not supported |
