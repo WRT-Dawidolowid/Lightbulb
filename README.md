@@ -1,7 +1,7 @@
 # Lightbulb
 A powerful tool for doing some thingy things
 
-![Logo](.github/lightbulb_banner.png)
+![Banner](.github/lightbulb_banner.png)
 
 > [!CAUTION]
 > This program is in early alpha and it can be unstable.
