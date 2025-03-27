@@ -2,8 +2,7 @@
 <img src=".github/Lightbulb_banner.png" alt="">
 
 A powerful tool made in PowerShell for doing some things like:
-<!-- 
-| Operating System  | Developement | Status        |
+<!-- | Operating System  | Developement | Status        |
 |-------------------|--------------|---------------|
 | Windows           |      | Supported |
 | Linux             | Expected     | Not supported |
