@@ -18,7 +18,7 @@ A powerful tool made in PowerShell for doing some things like:
 | Operating System  | Developement | Status        |
 |-------------------|--------------|---------------|
 | Windows           |      | Supported |
-| Linux             | Expected     | Not supported |
+| Linux             | Not Expected  | Not supported |
 | Mac OS            | Not expected | Not supported |
 
 > Credits to:
