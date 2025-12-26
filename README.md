@@ -10,10 +10,7 @@ A powerful tool made in PowerShell for doing some things like:
 | Mac OS            | Not expected | Not supported |-->
 
 > [!CAUTION]
-> This program is in early alpha and it can be unstable.
-
-> [!TIP]  
-> Expect bugs! Report them to help improve Lightbulb!
+> This program is discontinued!
 
 | Operating System  | Developement | Status        |
 |-------------------|--------------|---------------|
